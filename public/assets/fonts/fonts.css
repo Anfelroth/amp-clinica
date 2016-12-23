@@ -1,0 +1,196 @@
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/assets/fonts/Lora-regular/Lora-regular.eot');
+  src: url('/assets/fonts/Lora-regular/Lora-regular.eot?#iefix') format('embedded-opentype'),
+       local('Lora'),
+       local('Lora-regular'),
+       url('/assets/fonts/Lora-regular/Lora-regular.woff2') format('woff2'),
+       url('/assets/fonts/Lora-regular/Lora-regular.woff') format('woff'),
+       url('/assets/fonts/Lora-regular/Lora-regular.ttf') format('truetype'),
+       url('/assets/fonts/Lora-regular/Lora-regular.svg#Lora') format('svg');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/assets/fonts/Lora-700/Lora-700.eot');
+  src: url('/assets/fonts/Lora-700/Lora-700.eot?#iefix') format('embedded-opentype'),
+       local('Lora Bold'),
+       local('Lora-700'),
+       url('/assets/fonts/Lora-700/Lora-700.woff2') format('woff2'),
+       url('/assets/fonts/Lora-700/Lora-700.woff') format('woff'),
+       url('/assets/fonts/Lora-700/Lora-700.ttf') format('truetype'),
+       url('/public/assets/fonts/Lora-700/Lora-700.svg#Lora') format('svg');
+}
+
+@font-face {
+  font-family: 'Lora';
+  font-weight: 400;
+  font-style: italic;
+  src: url('/assets/fonts/Lora-italic/Lora-italic.eot');
+  src: url('/assets/fonts/Lora-italic/Lora-italic.eot?#iefix') format('embedded-opentype'),
+       local('Lora Italic'),
+       local('Lora-italic'),
+       url('/assets/fonts/Lora-italic/Lora-italic.woff2') format('woff2'),
+       url('/assets/fonts/Lora-italic/Lora-italic.woff') format('woff'),
+       url('/assets/fonts/Lora-italic/Lora-italic.ttf') format('truetype'),
+       url('/assets/fonts/Lora-italic/Lora-italic.svg#Lora') format('svg');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/assets/fonts/Montserrat-regular/Montserrat-regular.eot');
+  src: url('/assets/fonts/Montserrat-regular/Montserrat-regular.eot?#iefix') format('embedded-opentype'),
+       local('Montserrat-Regular'),
+       local('Montserrat-regular'),
+       url('/assets/fonts/Montserrat-regular/Montserrat-regular.woff2') format('woff2'),
+       url('/assets/fonts/Montserrat-regular/Montserrat-regular.woff') format('woff'),
+       url('/assets/fonts/Montserrat-regular/Montserrat-regular.ttf') format('truetype'),
+       url('/assets/fonts/Montserrat-regular/Montserrat-regular.svg#Montserrat') format('svg');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/assets/fonts/Montserrat-700/Montserrat-700.eot');
+  src: url('/assets/fonts/Montserrat-700/Montserrat-700.eot?#iefix') format('embedded-opentype'),
+       local('Montserrat-Bold'),
+       local('Montserrat-700'),
+       url('/assets/fonts/Montserrat-700/Montserrat-700.woff2') format('woff2'),
+       url('/assets/fonts/Montserrat-700/Montserrat-700.woff') format('woff'),
+       url('/assets/fonts/Montserrat-700/Montserrat-700.ttf') format('truetype'),
+       url('/assets/fonts/Montserrat-700/Montserrat-700.svg#Montserrat') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 100;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-100/Raleway-100.eot');
+  src: url('assets/fonts/Raleway-100/Raleway-100.eot?#iefix') format('embedded-opentype'),
+       local('Raleway Thin'),
+       local('Raleway-100'),
+       url('/assets/fonts/Raleway-100/Raleway-100.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-100/Raleway-100.woff') format('woff'),
+       url('/assets/fonts/Raleway-100/Raleway-100.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-100/Raleway-100.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 200;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-200/Raleway-200.eot');
+  src: url('/assets/fonts/Raleway-200/Raleway-200.eot?#iefix') format('embedded-opentype'),
+       local('Raleway ExtraLight'),
+       local('Raleway-200'),
+       url('/assets/fonts/Raleway-200/Raleway-200.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-200/Raleway-200.woff') format('woff'),
+       url('/assets/fonts/Raleway-200/Raleway-200.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-200/Raleway-200.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 300;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-300/Raleway-300.eot');
+  src: url('/assets/fonts/Raleway-300/Raleway-300.eot?#iefix') format('embedded-opentype'),
+       local('Raleway Light'),
+       local('Raleway-300'),
+       url('/assets/fonts/Raleway-300/Raleway-300.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-300/Raleway-300.woff') format('woff'),
+       url('/assets/fonts/Raleway-300/Raleway-300.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-300/Raleway-300.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-regular/Raleway-regular.eot');
+  src: url('/assets/fonts/Raleway-regular/Raleway-regular.eot?#iefix') format('embedded-opentype'),
+       local('Raleway'),
+       local('Raleway-regular'),
+       url('/assets/fonts/Raleway-regular/Raleway-regular.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-regular/Raleway-regular.woff') format('woff'),
+       url('/assets/fonts/Raleway-regular/Raleway-regular.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-regular/Raleway-regular.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 500;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-500/Raleway-500.eot');
+  src: url('/assets/fonts/Raleway-500/Raleway-500.eot?#iefix') format('embedded-opentype'),
+       local('Raleway Medium'),
+       local('Raleway-500'),
+       url('/assets/fonts/Raleway-500/Raleway-500.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-500/Raleway-500.woff') format('woff'),
+       url('/assets/fonts/Raleway-500/Raleway-500.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-500/Raleway-500.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 600;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-600/Raleway-600.eot');
+  src: url('/assets/fonts/Raleway-600/Raleway-600.eot?#iefix') format('embedded-opentype'),
+       local('Raleway SemiBold'),
+       local('Raleway-600'),
+       url('/assets/fonts/Raleway-600/Raleway-600.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-600/Raleway-600.woff') format('woff'),
+       url('/assets/fonts/Raleway-600/Raleway-600.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-600/Raleway-600.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-700/Raleway-700.eot');
+  src: url('/assets/fonts/Raleway-700/Raleway-700.eot?#iefix') format('embedded-opentype'),
+       local('Raleway Bold'),
+       local('Raleway-700'),
+       url('/assets/fonts/Raleway-700/Raleway-700.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-700/Raleway-700.woff') format('woff'),
+       url('/assets/fonts/Raleway-700/Raleway-700.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-700/Raleway-700.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-800/Raleway-800.eot');
+  src: url('/assets/fonts/Raleway-800/Raleway-800.eot?#iefix') format('embedded-opentype'),
+       local('Raleway ExtraBold'),
+       local('Raleway-800'),
+       url('/assets/fonts/Raleway-800/Raleway-800.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-800/Raleway-800.woff') format('woff'),
+       url('/assets/fonts/Raleway-800/Raleway-800.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-800/Raleway-800.svg#Raleway') format('svg');
+}
+
+@font-face {
+  font-family: 'Raleway';
+  font-weight: 900;
+  font-style: normal;
+  src: url('/assets/fonts/Raleway-900/Raleway-900.eot');
+  src: url('/assets/fonts/Raleway-900/Raleway-900.eot?#iefix') format('embedded-opentype'),
+       local('Raleway Black'),
+       local('Raleway-900'),
+       url('/assets/fonts/Raleway-900/Raleway-900.woff2') format('woff2'),
+       url('/assets/fonts/Raleway-900/Raleway-900.woff') format('woff'),
+       url('/assets/fonts/Raleway-900/Raleway-900.ttf') format('truetype'),
+       url('/assets/fonts/Raleway-900/Raleway-900.svg#Raleway') format('svg');
+}

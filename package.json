@@ -1,0 +1,23 @@
+{
+  "name": "lan-mob",
+  "version": "1.0.0",
+  "description": "test mobirise",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.2.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-html-replace": "^1.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lan",
+    "clinica"
+  ],
+  "author": "anfelroth",
+  "license": "MIT"
+}
